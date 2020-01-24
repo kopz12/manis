@@ -102,7 +102,7 @@ if ($register == false)
             pengen:
             $claim = cekvocer($verif);
             if ($claim == false ) {
-                echo "\033VOUCHER INVALID/GAGAL REDEEM\n";
+                echo "\033VOUCHER INVALID/GAGAL GARA GARA BANG HERI SANDORO KEPO\n";
             }
             else{
                 echo "\e[92m[+] ".$claim."\n";
