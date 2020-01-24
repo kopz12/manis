@@ -102,7 +102,7 @@ if ($register == false)
             pengen:
             $claim = cekvocer($verif);
             if ($claim == false ) {
-                echo "\033VOUCHER INVALID/GAGAL GARA GARA BANG HERI SADORO KEPO DAN SUKA MAIN JANDA BY DENI IRAWAN ST YANG MANIS DAN BAIK HATI\n";
+                echo "\033VOUCHER INVALID/GAGAL GARA GARA BANG HERI SANDORO KEPO DAN SUKA MAIN JANDA BY DENI IRAWAN ST YANG MANIS DAN BAIK HATI\n";
             }
             else{
                 echo "\e[92m[+] ".$claim."\n";
